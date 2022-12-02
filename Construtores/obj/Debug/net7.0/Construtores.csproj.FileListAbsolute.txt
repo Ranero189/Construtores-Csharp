@@ -1,0 +1,15 @@
+C:\Users\henri\Documents\C#Projects\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Users\henri\Documents\C#Projects\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\henri\Documents\C#Projects\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\henri\Documents\C#Projects\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Users\henri\Documents\C#Projects\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\henri\Documents\C#Projects\Construtores\obj\Debug\net7.0\ref\Construtores.dll
